@@ -1,4 +1,6 @@
-   cycler:     0.10.0-py37_0
+   
+dependencies
+    cycler:     0.10.0-py37_0
     freetype:   2.9.1-ha9979f8_1
     icu:        58.2-ha66f8fd_1
     jpeg:       9b-hb83a4c4_2
